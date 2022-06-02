@@ -11,6 +11,7 @@ body{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    color: white;
 }
 
 button{
